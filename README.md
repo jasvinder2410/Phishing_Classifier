@@ -5,8 +5,8 @@ __Project Overview__
 Phishing is a type of cyber attack where attackers trick users into providing sensitive information by mimicking legitimate websites. To combat this, this project builds a classification model that can predict whether a website is phishing or legitimate based on features such as URL structure, domain name, etc.
 
 __Key Features:__
--Data Preprocessing: Data cleaning, handling missing values, and feature engineering.
--Modeling: Training multiple models using RandomizedSearchCV and selecting the best one based on performance metrics.
+- Data Preprocessing: Data cleaning, handling missing values, and feature engineering.
+- Modeling: Training multiple models using RandomizedSearchCV and selecting the best one based on performance metrics.
 Class Imbalance Handling: Addressing imbalance in the dataset using SMOTE (Synthetic Minority Over-sampling Technique).
 Evaluation: Evaluating model performance using metrics like Accuracy, Recall.
 
